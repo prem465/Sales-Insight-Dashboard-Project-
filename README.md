@@ -32,7 +32,7 @@ To address this problem, a Power BI dashboard was developed to visualize sales d
    - Solved the '(blank)' issue in the products section by adding a modified products table with new product entries.
    
 2. **Sales Transactions Table Enhancement:**
-   - Merged the original and modified 'sales transactions' tables to include additional fields like profit margin and cost price.## Insights
+   - Merged the original and modified 'sales transactions' tables to include additional fields like profit margin and cost price.
 ## Insights
 1. **Overall Performance:**
    - Over 4 years, the company generated total revenue of ₹985M, with a total profit margin of ₹24.7M (2.5%) and sales quantity of 2M units.
